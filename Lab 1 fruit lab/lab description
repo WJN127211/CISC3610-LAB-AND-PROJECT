@@ -1,0 +1,4 @@
+This is the first lab
+Using Javascript/Canvas, draw out a bar chart showing the quantity in sales for the fruit. Each bar must be in a color that matches the fruit, 
+please choose a unique color for each fruit. 
+You should write the code using HTML5 drawing commands. Later on in the semester we will use a charting library. 
